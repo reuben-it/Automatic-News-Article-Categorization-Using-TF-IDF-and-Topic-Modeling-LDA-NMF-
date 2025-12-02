@@ -1,0 +1,7 @@
+requests
+BeautifulSoup4
+nltk
+scikit-learn
+pandas
+feedparser
+
